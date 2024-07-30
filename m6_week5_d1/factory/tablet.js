@@ -5,4 +5,4 @@ const Tablet = function({ ram, hdd, name, network }){
     this.name = name||"";
 };
 
-module.export = Tablet;
+module.exports = Tablet;
